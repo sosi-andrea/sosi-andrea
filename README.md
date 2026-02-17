@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrea
 
-<!--
-**sosi-andrea/sosi-andrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer focused on **Cloud Native technologies** and **DevOps/Platform engineering**. Passionate about learning and contributing to open source.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- **Languages & Scripting:** Java, C#, Go, Bash  
+- **Cloud & Architecture:** AWS, Azure, Kubernetes, RKE2, Docker
+- **DevOps & CI/CD:** Git, Jenkins, GitHub Actions, ArgoCD, Ansible, Prometheus, Grafana  
+
+
+## 🚀 Interests
+
+- Exploring new technologies and innovative solutions  
+- Cloud-native and on-premise architectures  
+- Contributing to **open source projects**
