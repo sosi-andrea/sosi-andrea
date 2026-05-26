@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Andrea
 
-<!--
-**sosi-andrea/sosi-andrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer & DevOps Engineer** with a strong focus on cloud-native architectures, infrastructure automation, and GitOps practices. I design and operate production-grade Kubernetes platforms at scale, bridging the gap between development and operations.
 
-Here are some ideas to get you started:
+[Cloud Native Trento](https://ocgroups.dev/cncf/group/jpkyqrr) organizer — CNCF Official Group
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+☸️ **Kubernetes** — Operators (e.g. Strimzi, CloudNativePG), GitOps (ArgoCD), RKE2
+
+☁️ **Cloud & Infrastructure** — AWS, Azure, Terraform — infrastructure automation and IaC
+
+🔄 **CI/CD & Automation** — GitHub Actions, Jenkins, Ansible — pipeline design
+
+📊 **Observability** — Prometheus, Grafana, Loki, OpenTelemetry — monitoring and alerting at scale
+
+💻 **Languages** — Java, C#, Go, Bash, Python
+
+---
+
+## Focus Areas
+
+- Designing and automating **cloud-native platforms** on Kubernetes (on-premise and cloud)
+- Infrastructure as Code with **Terraform** for reproducible, auditable environments
+- **GitOps** pipelines and progressive delivery strategies
+- Contributing to **open source** projects in the CNCF ecosystem
